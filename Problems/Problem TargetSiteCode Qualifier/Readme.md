@@ -44,3 +44,7 @@ Problem Observation: 2.16.840.1.113883.10.20.22.4.4:2015-08-01
 
 * 
 problem, qualifier, QRDA, eCQM, laterality, targetSiteCod
+
+###Permalink 
+
+* f0f9e33a2fccd2243507be0f014a469a321942af

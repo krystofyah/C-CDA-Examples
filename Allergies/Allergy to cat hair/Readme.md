@@ -1,4 +1,4 @@
-##Approval Status 
+##Approval Status
 
 * Approval Status: Withdrawn
 * Example Task Force: Approved 4/10/2014
@@ -6,7 +6,7 @@
 * SDWG: Withdrawn from consideration since not clinically relevant.
 
 
-###C-CDA 2.1 Example: 
+###C-CDA 2.1 Example:
 
 * 2.16.840.1.113883.10.20.22.2.6.1:2015-08-01
 
@@ -38,6 +38,7 @@
 
 * substance, allergies, allergy
 
-###Permalink
 
-*ad811b5c30103652f64000ae9a9d7092279d22b3
+###Permalink 
+
+* ad811b5c30103652f64000ae9a9d7092279d22b3

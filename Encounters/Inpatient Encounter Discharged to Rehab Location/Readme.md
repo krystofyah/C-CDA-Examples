@@ -33,3 +33,8 @@
 ###Keywords
 
 * Hospital discharge disposition, local code
+
+
+###Permalink 
+
+* 1d57152e9bdcd9fe700d52b3e3af6b79e48274dd

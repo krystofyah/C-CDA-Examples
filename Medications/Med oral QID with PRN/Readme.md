@@ -29,3 +29,8 @@
 ###Comments
 
 * This is an example of a medication which is QID and PRN (as needed) but with no precondition specified. It was generated based on SDWG list-serv discussion in December 2013. It also demonstrated a pre-coordinated generic medication coded at the SDC level (generic 600mg Oral Tablet) in RxNorm hierarchy.
+
+
+###Permalink 
+
+* 57a33d6832812164b69e91be530df9a7e70140cd

@@ -34,3 +34,8 @@
 ###Keywords
 
 * Outpatient Visit, Encounter Diagnoses, performer, visit location
+
+
+###Permalink 
+
+* 2ff635678627969ed626e22e3a718c1cd9f4345b

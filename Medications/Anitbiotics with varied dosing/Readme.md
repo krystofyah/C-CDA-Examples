@@ -39,3 +39,8 @@
 ###Keywords
 
 * medications, Pre-coordinated medication code, dose frequency, tapered dose, loading dose
+
+
+###Permalink 
+
+* 57a33d6832812164b69e91be530df9a7e70140cd
