@@ -33,3 +33,8 @@ problem, qualifier, QRDA, eCQM, laterality, targetSiteCod
 
 ###Permalink 
 * 107090b19719556c7091ff1ede1e5574bc917201
+
+
+###Permalink 
+
+* d41e13506b41de68fb44dc0bf24636bdb64d7b65
