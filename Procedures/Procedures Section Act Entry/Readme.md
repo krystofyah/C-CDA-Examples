@@ -1,4 +1,4 @@
-##Approval Status 
+##Approval Status
 
 * Approval Status: Approved
 * Example Task Force: 5/22/2014
@@ -6,7 +6,7 @@
 
 * SDWG C-CDA R2.1 Upgrade: 12/1/2016    
 
-###C-CDA 2.1 Example: 
+###C-CDA 2.1 Example:
 
 * 2.16.840.1.113883.10.20.22.2.7.1:2014-06-09
 * 2.16.840.1.113883.10.20.22.4.12:2014-06-09
@@ -23,7 +23,7 @@
 
 ###Comments
 
-* This example illustrates how a procedure which "alters the physical state" of the patient and should be classified as a procedure.
+* This example illustrates an act within a procedure section.
 ###Custodian
 
 * John D'Amore jdamore@diameterhealth.com (GitHub: jddamore)
@@ -34,6 +34,6 @@
 
 * problems
 
-###Permalink 
+###Permalink
 
 * 11231b4bcf27fe8b7e326b8529a32d72def2168b
