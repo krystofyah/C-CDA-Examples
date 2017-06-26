@@ -1,8 +1,12 @@
 ##Approval Status
 
-* Approval Status: Pending
+* Approval Status: Approved
 * Example Task Force: 2/2/2017
+<<<<<<< HEAD
 * SDWG:
+=======
+* SDWG: 5/18/2017
+>>>>>>> 932d99aa5993bd4638d33ed8102bc1171d493ae6
 
 ###C-CDA 2.1 Example:
 
@@ -31,10 +35,18 @@
 *
 problem, qualifier, QRDA, eCQM, laterality, targetSiteCod
 
+<<<<<<< HEAD
 ###Permalink 
 * 107090b19719556c7091ff1ede1e5574bc917201
+=======
+* problem, qualifier, QRDA, eCQM, laterality, targetSiteCod
+>>>>>>> 932d99aa5993bd4638d33ed8102bc1171d493ae6
 
 
 ###Permalink 
 
+<<<<<<< HEAD
 * d41e13506b41de68fb44dc0bf24636bdb64d7b65
+=======
+* 8a7c67dd2918d6a9e8ddd04e4522bf0c857f162b
+>>>>>>> 932d99aa5993bd4638d33ed8102bc1171d493ae6

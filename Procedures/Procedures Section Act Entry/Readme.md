@@ -34,6 +34,13 @@
 
 * problems
 
+<<<<<<< HEAD
 ###Permalink
 
 * 11231b4bcf27fe8b7e326b8529a32d72def2168b
+=======
+
+###Permalink 
+
+* 6fb118749dc61a404c472bc9680c7c595fd5da7c
+>>>>>>> 932d99aa5993bd4638d33ed8102bc1171d493ae6

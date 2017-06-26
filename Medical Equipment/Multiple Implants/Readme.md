@@ -1,8 +1,8 @@
 ##Approval Status 
 
-* Approval Status: Pending
+* Approval Status: Approved
 * Example Task Force: 7/4/2016
-* SDWG: 
+* SDWG: 5/18/2017
 
 ###C-CDA 2.1 Example: 
 * 2.16.840.1.113883.10.20.22.2.23
@@ -33,4 +33,8 @@
 
 ###Permalink 
 
+<<<<<<< HEAD
 * d57573f868ac900d4f06da583d778c569cd4240c
+=======
+* 93ef77b9d74d9d5213bea81f320de15b8b279d8b
+>>>>>>> 932d99aa5993bd4638d33ed8102bc1171d493ae6

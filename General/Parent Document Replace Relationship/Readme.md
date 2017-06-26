@@ -1,10 +1,10 @@
-##Approval Status 
+##Approval Status
 
-* Approval Status: Pending
+* Approval Status: Approved
 * Example Task Force: 5/4/2017
-* SDWG: 
+* SDWG: 5/18/2017
 
-###C-CDA 2.1 Example: 
+###C-CDA 2.1 Example:
 * 2.16.840.1.113883.10.20.22.1.
 
 ###Reference to full CDA sample:
@@ -15,7 +15,7 @@
 * [SITE](https://sitenv.org/c-cda-validator) on 5/4/2017
 
 ###Comments
-* This is an example of how a continuity of care document (or other document) may reference parent documents. This one replaces a previous document. 
+* This is an example of how a continuity of care document (or other document) may reference parent documents. This one replaces a previous document.
 
 ###Custodian
 * John D'Amore jdamore@diameterhealth.com (GitHub: jddamore)
@@ -23,9 +23,3 @@
 ###Keywords
 
 * parentDocument, relatedDocument, CCD
-
-
-
-###Permalink 
-
-* 1807f9a5480756ba6b57d55b76dbec312e102c0d
