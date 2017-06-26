@@ -3,10 +3,10 @@
 <!--
 	This sample shows a document which replaces a prior clinical document (e.g. CCD)
 	The reason for this example is to demonstrate the use of relatedDocument@typeCode="RPLC"
-	No clinical data is contained in any of the sections 
+	No clinical data is contained in any of the sections
 	Look to lines 364 for the relevant illustrative example xml
  -->
-<ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+<ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:voc="urn:hl7-org:v3/voc" xmlns:sdtc="urn:hl7-org:sdtc">
 	<realmCode code="US"/>
 	<typeId extension="POCD_HD000040" root="2.16.840.1.113883.1.3"/>
@@ -282,7 +282,7 @@
 				</name>
 			</associatedPerson>
 		</associatedEntity>
-	</participant>	
+	</participant>
 	<documentationOf>
 		<serviceEvent classCode="PCPR">
 			<code code="423123007" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED-CT"
@@ -358,7 +358,7 @@
 						</name>
 					</assignedPerson>
 				</assignedEntity>
-			</performer>			
+			</performer>
 		</serviceEvent>
 	</documentationOf>
 	<!-- ******************************************************** START OF RELATED DOCUMENT EXAMPLE ******************************************************** -->
@@ -368,9 +368,9 @@
 		<parentDocument>
 			<id extension="TT661" root="2.16.840.1.113883.19.5.99999.1"/>
 			<code code="34133-9" displayName="Summarization of Episode Note" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"/>
-			<!-- While not required, there is a benefit of using <setId> and <versionNumber> as a secondary key on documents.   
-			If the flow from a document source system or repository to a destination system is infrequent or  not able to guarantee 
-			sequential transmission of  document revisions.  The setId and versionNumber pair are actually better for detecting which 
+			<!-- While not required, there is a benefit of using <setId> and <versionNumber> as a secondary key on documents.
+			If the flow from a document source system or repository to a destination system is infrequent or  not able to guarantee
+			sequential transmission of  document revisions.  The setId and versionNumber pair are actually better for detecting which
 			new document revises a previous older version of that document.  -->
 			<!-- If setId and versionNumber are not available or applicable, they may be omitted -->
 			<setId root="004bb033-b948-4f4c-b5bf-a8dbd7d8dd40"/>
@@ -386,7 +386,7 @@
 				<!-- represents length of time spent in hospital -db -->
 				<low value="2015072218-0500"/>
 				<high value="2015072223-0500"/>
-			</effectiveTime>			
+			</effectiveTime>
 		</encompassingEncounter>
 	</componentOf>
 	<!-- ******************************************************** CDA Body ******************************************************** -->
@@ -404,7 +404,7 @@
 					<code code="48765-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC"/>
 					<title>ALLERGIES AND ADVERSE REACTIONS</title>
 					<text>No Known Drug Allergies</text>
-					<!-- replaced Allergy Problem Act (R1.1) with 
+					<!-- replaced Allergy Problem Act (R1.1) with
 					Allergy Concern Act (V3) to meet R2.1 validation requirements -DB-->
 					<entry typeCode="DRIV">
 						<act classCode="ACT" moodCode="EVN">
@@ -437,7 +437,7 @@
 										codeSystem="2.16.840.1.113883.6.96"
 										codeSystemName="SNOMED CT">
 									</value>
-									<!-- In C-CDA R2 the participant is required. The SNOMED code ="105590001" displayName="Substance" could be used in the participant-->									
+									<!-- In C-CDA R2 the participant is required. The SNOMED code ="105590001" displayName="Substance" could be used in the participant-->
 									<participant typeCode="CSM">
 										<participantRole classCode="MANU">
 											<playingEntity classCode="MMAT">
@@ -448,12 +448,12 @@
 								</observation>
 							</entryRelationship>
 						</act>
-					</entry>					
+					</entry>
 				</section>
 			</component>
 
 			<!-- ******************************* MEDICATIONS ***************************** -->
-			<!-- No known medications -->			
+			<!-- No known medications -->
 			<component>
 				<section>
 					<!-- *** Medications Section (entries required) (V2) *** -->
@@ -478,9 +478,9 @@
 									<templateId root="2.16.840.1.113883.10.20.22.4.23" extension="2014-06-09"/>
 									<templateId root="2.16.840.1.113883.10.20.22.4.23"/>
 									<manufacturedMaterial>
-										<code nullFlavor="OTH" codeSystem="2.16.840.1.113883.6.88"> 
+										<code nullFlavor="OTH" codeSystem="2.16.840.1.113883.6.88">
 											<translation code="410942007" displayName="drug or medication"
-												codeSystem="2.16.840.1.113883.6.96"            
+												codeSystem="2.16.840.1.113883.6.96"
 												codeSystemName="SNOMED CT"/>
 										</code>
 									</manufacturedMaterial>
@@ -491,13 +491,13 @@
 				</section>
 			</component>
 
-			<!-- ******************************* MEDICATIONS ADMINISTERED			***************************** 
-				NO known medications 
+			<!-- ******************************* MEDICATIONS ADMINISTERED			*****************************
+				NO known medications
 			-->
 			<component>
 				<section>
-					<!-- The section contains the medications taken by the patient prior to 
-					and 
+					<!-- The section contains the medications taken by the patient prior to
+					and
 					at the time of admission to the facility. -->
 					<!-- Admission Medications Section (entries optional) (V3) -->
 					<templateId root="2.16.840.1.113883.10.20.22.2.44" extension="2015-08-01"/>
@@ -521,9 +521,9 @@
 									<templateId root="2.16.840.1.113883.10.20.22.4.23" extension="2014-06-09"/>
 									<templateId root="2.16.840.1.113883.10.20.22.4.23"/>
 									<manufacturedMaterial>
-										<code nullFlavor="OTH" codeSystem="2.16.840.1.113883.6.88"> 
+										<code nullFlavor="OTH" codeSystem="2.16.840.1.113883.6.88">
 											<translation code="410942007" displayName="drug or medication"
-												codeSystem="2.16.840.1.113883.6.96"            
+												codeSystem="2.16.840.1.113883.6.96"
 												codeSystemName="SNOMED CT"/>
 										</code>
 									</manufacturedMaterial>
@@ -532,7 +532,7 @@
 						</substanceAdministration>
 					</entry>
 				</section>
-			</component>	
+			</component>
 			<!-- Added Discharge Medications Section (entries required) (V3) No known medications -->
 			<component>
 				<section nullFlavor="NI">
@@ -549,10 +549,10 @@
 					<title>Discharge Medications</title>
 					<text>No Information</text>
 				</section>
-			</component>			
+			</component>
 
 			<!-- ***************** PROBLEM LIST *********************** -->
-			<!-- No known problems -->		
+			<!-- No known problems -->
 			<component>
 				<section>
 					<!--  *** Problem Section (entries required) (V3) *** -->
@@ -565,7 +565,7 @@
 						</content>
 					</text>
 					<entry typeCode="DRIV">
-						<!-- Problem Concern Act -->	
+						<!-- Problem Concern Act -->
 						<act classCode="ACT" moodCode="EVN">
 							<!-- ** Problem Concern Act (V3) ** -->
 							<templateId root="2.16.840.1.113883.10.20.22.4.3" extension="2015-08-01" />
@@ -586,7 +586,7 @@
 							<entryRelationship typeCode="SUBJ">
 								<!-- Model of Meaning for No Problems -->
 								<!-- The use of negationInd corresponds with the newer Observation.ValueNegationInd -->
-								<!-- The negationInd = true negates the value element. --> 
+								<!-- The negationInd = true negates the value element. -->
 								<!-- problem observation template -->
 								<observation classCode="OBS" moodCode="EVN" negationInd="true">
 									<!-- ** Problem observation  (V3)** -->
@@ -597,7 +597,7 @@
 									<code code="55607006" displayName="Problem" codeSystemName="SNOMED-CT" codeSystem="2.16.840.1.113883.6.96">
 										<!-- This code SHALL contain at least one [1..*] translation, which SHOULD be selected from ValueSet Problem Type (LOINC) -->
 										<translation code="75326-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Problem"/>
-									</code>									
+									</code>
 									<text>
 										<reference value="#problems1"/>
 									</text>
@@ -641,7 +641,7 @@
 
 			<!-- ************** PROCEDURES ***************** -->
 			<!-- edited as per test doc - all of this data is directly relevant -db -->
-			<!-- (NO) UDI section based off of 	https://github.com/brettmarquard/HL7-C-CDA-Task-Force-Examples/blob/master/No_Implanted_Devices.xml 
+			<!-- (NO) UDI section based off of 	https://github.com/brettmarquard/HL7-C-CDA-Task-Force-Examples/blob/master/No_Implanted_Devices.xml
 			-db -->
 			<!-- ************** PROCEDURES and UDI ***************** -->
 			<component>
@@ -667,14 +667,14 @@
 					<!-- Alternative text: Patient has no implanted devices'-->
 					<text>
 						<paragraph ID="Proc2">Patient has no history of implantable devices</paragraph>
-					</text>				
+					</text>
 					<entry>
 						<procedure classCode="PROC" moodCode="EVN" negationInd="true">
 							<!-- Procedure Activity Procedure V2-->
 							<templateId root="2.16.840.1.113883.10.20.22.4.14"/>
 							<templateId root="2.16.840.1.113883.10.20.22.4.14" extension="2014-06-09"/>
 							<id root="d5b614bd-01ce-410d-8728-e1fd01dcc72a" />
-							<code code="71388002" codeSystem="2.16.840.1.113883.6.96"   
+							<code code="71388002" codeSystem="2.16.840.1.113883.6.96"
 								displayName="Procedure"/>
 							<text>
 								<reference value="#Proc2"/>
@@ -685,16 +685,16 @@
 								<participantRole classCode="MANU">
 									<templateId root="2.16.840.1.113883.10.20.22.4.37"/>
 									<!-- UDI is 'not applicable' since no procedure -->
-									<id nullFlavor="NA" root="2.16.840.1.113883.3.3719"/>  
+									<id nullFlavor="NA" root="2.16.840.1.113883.3.3719"/>
 									<playingDevice>
-										<code code="40388003" codeSystem="2.16.840.1.113883.6.96"   
+										<code code="40388003" codeSystem="2.16.840.1.113883.6.96"
 											displayName="Implant"/>
 									</playingDevice>
 									<scopingEntity>
 										<id root="2.16.840.1.113883.3.3719"/>
 									</scopingEntity>
 								</participantRole>
-							</participant>	
+							</participant>
 						</procedure>
 					</entry>
 				</section>
@@ -727,7 +727,7 @@
 									<templateId root="2.16.840.1.113883.10.20.22.4.54" extension="2014-06-09"/>
 									<templateId root="2.16.840.1.113883.10.20.22.4.54"/>
 									<manufacturedMaterial>
-										<!-- there is no generic vaccine code and no known recommended way to do this - 
+										<!-- there is no generic vaccine code and no known recommended way to do this -
 										leaving generic flu for now just as an example. Not sure if it makes more sense to apply a nullFlavor? -db -->
 										<code nullFlavor="OTH">
 											<!-- Optional original text -->
@@ -774,7 +774,7 @@
 									<th>Dates Observed</th>
 								</tr>
 							</thead>
-							<tbody>								
+							<tbody>
 								<tr>
 									<td>Current Smoking Status</td>
 									<td>Current every day</td>
@@ -787,7 +787,7 @@
 								</tr>
 							</tbody>
 						</table>
-					</text>					
+					</text>
 					<!-- Current Smoking Status - July 22, 2015 -db -->
 					<entry typeCode="DRIV">
 						<observation classCode="OBS" moodCode="EVN">
@@ -804,7 +804,7 @@
 							<!-- Consol Smoking Status Meaningful Use2 SHALL contain exactly one [1..1] value (CONF:1098-14810), which SHALL be selected from ValueSet Current Smoking Status 2.16.840.1.113883.11.20.9.38 STATIC 2014-09-01 (CONF:1098-14817) -db -->
 							<value xsi:type="CD" code="449868002" displayName="Current every day smoker" codeSystem="2.16.840.1.113883.6.96"/>
 						</observation>
-					</entry>					
+					</entry>
 					<!-- removed Social history observation (V3) entry for "Alcoholic drinks per day" -db -->
 					<!-- Add Birth Sex entry -->
 					<entry>
@@ -822,7 +822,7 @@
 
 
 				</section>
-			</component>	
+			</component>
 
 			<!-- ******************** RESULTS ************************ -->
 			<!-- edited as per test doc - all of this data is directly relevant -db -->
@@ -835,7 +835,7 @@
 					<title>RESULTS</title>
 					<text>Laboratory Test: None needed. Laboratory Values/Results: No Lab Result data</text>
 				</section>
-			</component>			
+			</component>
 
 			<!-- removed component Advance Directives as not required by test data -db -->
 
@@ -847,8 +847,8 @@
 
 			<!-- removed component Payers as not required by test data -db -->
 
-			<!-- added Assessment -db -->			
-			<!-- 
+			<!-- added Assessment -db -->
+			<!--
 			********************************************************
 			Assessment
 			********************************************************
@@ -859,8 +859,8 @@
 					<!-- Assessment Section -db -->
 					<!-- There is no R2.1 (or 2.0) version of Assessment Section, using R1.1 templateId only -db -->
 					<templateId root="2.16.840.1.113883.10.20.22.2.8"/>
-					<code codeSystem="2.16.840.1.113883.6.1" 
-						 codeSystemName="LOINC" code="51848-0" 
+					<code codeSystem="2.16.840.1.113883.6.1"
+						 codeSystemName="LOINC" code="51848-0"
 						 displayName="ASSESSMENTS"/>
 					<title>ASSESSMENTS</title>
 					<text>No assessment information</text>
@@ -885,12 +885,12 @@
 			<!-- Added Goals - original version from C-CDA_R2_Care_Plan.xml from R2.0 IG package.
 			     There are no duplicated template Ids with extensions -
 				 as there is only one version in existence for each section and entry listed -db -->
-			<!-- 
+			<!--
                 ********************************************************
                 Goals
                 ********************************************************
             -->
-			<!-- edited as per test doc -db -->			
+			<!-- edited as per test doc -db -->
 			<component>
 				<section nullFlavor="NI">
 					<!-- Goals Section -->
@@ -904,14 +904,14 @@
 			<!-- added Health Concerns -db -->
 			<!-- Note: There is no R1.1 version of Health Concerns Section or Health Concern Act -
 				 so there is only one templateId per section (they're NEW) -db -->
-			<!-- updated as per ETF	https://github.com/brettmarquard/HL7-C-CDA-Task-Force-Examples/blob/master/No_Known_Health_Concerns.xml 
+			<!-- updated as per ETF	https://github.com/brettmarquard/HL7-C-CDA-Task-Force-Examples/blob/master/No_Known_Health_Concerns.xml
 			-db -->
-			<!-- 
+			<!--
 			********************************************************
 			Health Concerns
 			********************************************************
 			-->
-			<!-- edited as per test doc -db -->					
+			<!-- edited as per test doc -db -->
 			<component>
 				<!-- This example records assertion of no concerns -->
 				<section>
@@ -935,19 +935,19 @@
 							</text>
 							<!-- This Health Concern has a statusCode of concern because assertion is ongoing -->
 							<statusCode code="active"/>
-							<!-- The effective time is the date that the Health Concern started being followed - 
+							<!-- The effective time is the date that the Health Concern started being followed -
 								this does not necessarily correlate to the onset date of the contained health issues-->
 							<effectiveTime value="20150722"/>
 							<!-- Time at which THIS “concern” began being tracked.-->
 						</act>
 					</entry>
 				</section>
-			</component>		
+			</component>
 
-			<!-- 
+			<!--
 			************************************
 			HOSPITAL DISCHARGE INSTRUCTIONS
-			************************************ 
+			************************************
 			-->
 			<component>
 				<section>
@@ -969,16 +969,16 @@
 						</list>
 					</text>
 				</section>
-			</component>				
+			</component>
 
-			<!-- removed Reason for Referral -db -->	
+			<!-- removed Reason for Referral -db -->
 
 			<!-- added Mental Status Section (V2) (used to be NEW in R2.0) 2.16.840.1.113883.10.20.22.2.56 as required by VDT inp test data -db -->
-			<!-- 
+			<!--
 			********************************************************
 			Mental Status Section
 			********************************************************
-			-->		
+			-->
 			<component>
 				<section nullFlavor="NI">
 					<!-- note: the IG lists the wrong templateId in its example of this section, lists ...2,14 instead of 2.56 -db -->
@@ -988,16 +988,16 @@
 					<code code="10190-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="MENTAL STATUS" />
 					<title>MENTAL STATUS</title>
 					<text>No information</text>
-				</section>	
+				</section>
 			</component>
 
 			<!-- added component Functional Status as required by test data -db -->
-			<!-- 
+			<!--
 			********************************************************
 			FUNCTIONAL STATUS
 			********************************************************
-			-->			
-			<component>				
+			-->
+			<component>
 				<section nullFlavor="NI">
 					<!-- Functional Status Section (V2)-->
 					<templateId root="2.16.840.1.113883.10.20.22.2.14" extension="2014-06-09"/>
@@ -1010,7 +1010,7 @@
 			</component>
 
 			<!-- added Interventions -->
-			<!-- 
+			<!--
 			********************************************************
 			INTERVENTIONS
 			********************************************************
@@ -1028,24 +1028,3 @@
 		</structuredBody>
 	</component>
 </ClinicalDocument>
-
-
-###Permalink 
-
-* 1ae2e741f444c7f881c2a48d6080707d46890fa9
-
-###Permalink 
-
-* 626cd593dea1c187c7dc5714b86b55565949f63f
-
-###Permalink 
-
-* 70dc87518fee84c4ab8ea330f04f095c21aad482
-
-###Permalink 
-
-* 8510be3bd55e85bdbcb82768c88b60238ec9fdf7
-
-###Permalink 
-
-* 8548e94c653d53373d2e2f94870f9eaffae814dc

@@ -18,17 +18,17 @@
 				<!-- the code is a required element of act; @displayName is an optional attribute, and when present it should represent a name (some say the name) as defined for the @code in the given @codeSystem -->
 				<code code="12345" codeSystem="1.2.3.4.5.6.7.8.42" displayName="loreum ipsum">
 					<!-- it is not unusual for the code of an act to be specified in an Implementation Guide and often times text of the code is not in the human readable text, so originalText SHALL NOT be present in those cases
-									however, If some of the human readable text is a representation of the code, we SHOULD include a reference to that text using the originalText/reference construct 
+									however, If some of the human readable text is a representation of the code, we SHOULD include a reference to that text using the originalText/reference construct
 								-->
 					<originalText>
-						<!-- the value of this reference begins with hashtag, and is followed by text that is the value of an ID element in the human readable text 
+						<!-- the value of this reference begins with hashtag, and is followed by text that is the value of an ID element in the human readable text
 											notice that the referenced text is similar to but different than the @displayName  of the code element
 											from an interoperability perspective, this pattern is a SHOULD as access to the human readable text reflecting the (code, codeSystem) in use is beneficial to consuming systems
 									-->
 						<reference value="#simpleActCodeReference1"/>
 					</originalText>
 				</code>
-				<!-- when present, the text/reference points to the entire text of the act 
+				<!-- when present, the text/reference points to the entire text of the act
 									from an interoperability perspective, this pattern is a MAY as access to the entire human readable text of the act is sometimes useful, but generally not programatically useful (NLP may be needed)
 							-->
 				<text>
@@ -44,24 +44,3 @@
 		</entry>
 	</section>
 </component>
-
-
-###Permalink 
-
-* ea7a90c5f1262a4c791f1ea169689ed6621e4c26
-
-###Permalink 
-
-* 8e6024e2b0a60069474c0536de343a13fe0d0327
-
-###Permalink 
-
-* 2e1aa5c31f81f3b09343f8d8aa345b38dd7585b5
-
-###Permalink 
-
-* f1ed0e920c424fd56bb13017f004a5ab30b47e71
-
-###Permalink 
-
-* 46d95c22594405a8405d813ebd2d573aafa5c019

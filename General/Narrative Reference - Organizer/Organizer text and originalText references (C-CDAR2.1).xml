@@ -12,7 +12,7 @@
 							<content ID="ResultOrganizerCodeTextReference1">Lorem ipsum dolor sit amet</content>
 						</td>
 						<td>
-							labetText: 
+							labetText:
 							DD-mmm-YYYY
 							<br/>
 							<!-- ... -->
@@ -30,7 +30,7 @@
 							<content> nn</content>
 							<content> UCUM_Units</content>
 							<content ID="ResultComponentInterpretationCodeTextReference1"> (Semper)</content>
-							
+
 						</td>
 						<td>
 							<content ID="ResultComponentReferenceRangeTextReference1">
@@ -50,9 +50,9 @@
 							<br/>
 							<!-- ... -->
 						</td>
-					</tr>								
+					</tr>
 				</tbody>
-			</table>			
+			</table>
 		</text>
 		<!-- This illustrates an organizer. In C-CDA this is most typically used for Results and Vital Signs, but may be used in other sections -->
 		<entry>
@@ -64,7 +64,7 @@
 					<originalText>
 						<reference value="#ResultOrganizerCodeTextReference1"/>
 					</originalText>
-				</code>							
+				</code>
 				<statusCode code="completed"/>
 				<!-- ... -->
 				<component>
@@ -81,7 +81,7 @@
 						</text>
 						<!-- .... -->
 						<value xsi:type="CD" code="3456" codeSystem="1.2.3.4.5.6.7.8.42" displayName="duis id consequat">
-							<!--If some of the human readable text is a representation of the value, we SHOULD include a reference to that text using the originalText/reference construct 
+							<!--If some of the human readable text is a representation of the value, we SHOULD include a reference to that text using the originalText/reference construct
 									if, however, the value is bound to some constant by an Implementation Guide and it is not represented in the human readable text, then the originalText/reference SHALL NOT be present
 								-->
 							<originalText>
@@ -121,30 +121,9 @@
 							</observationRange>
 						</referenceRange>
 					</observation>
-				</component>													
+				</component>
 				<!-- ... -->
 			</organizer>
-		</entry>		
+		</entry>
 	</section>
 </component>
-
-
-###Permalink 
-
-* 4d235f80262c63b665fa24f3857a7b5523111966
-
-###Permalink 
-
-* 3258258b17ff9caff7d613f63115cc83b4b8307d
-
-###Permalink 
-
-* 732600c5b8dd0ef04bcf0f6b76f6f80bff410c7f
-
-###Permalink 
-
-* ef3052809322b099e45175dcfa1d6818a3956568
-
-###Permalink 
-
-* 98ac27996c2bd867974f2fe2d23f65569de75158

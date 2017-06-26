@@ -21,7 +21,7 @@
 			<observation classCode="OBS" moodCode="EVN">
 				<!-- ... -->
 				<code code="2345" codeSystem="1.2.3.4.5.6.7.8.42" displayName="proin facilisis">
-					<!--If some of the human readable text is a representation of the code, we SHOULD include a reference to that text using the originalText/reference construct 
+					<!--If some of the human readable text is a representation of the code, we SHOULD include a reference to that text using the originalText/reference construct
 									if, however, the code is bound to some constant by an Implementation Guide and it is not represented in the human readable text then the originalText/reference SHALL NOT be present
 								-->
 					<originalText>
@@ -31,7 +31,7 @@
 									<reference value="#simpleObservationCodeReference1"/>
 					</originalText>
 				</code>
-				<!-- when present, the text/reference points to the entire text of the act 
+				<!-- when present, the text/reference points to the entire text of the act
 									from an interoperability perspective, this pattern is a MAY as access to the entire human readable text of the act is sometimes useful, but generally not programatically useful (NLP may be needed)
 							-->
 				<text>
@@ -44,7 +44,7 @@
 				<effectiveTime value="YYYMMDD"/>
 				<!-- ... -->
 				<value xsi:type="CD" code="3456" codeSystem="1.2.3.4.5.6.7.8.42" displayName="duis id consequat">
-					<!--If some of the human readable text is a representation of the value, we SHOULD include a reference to that text using the originalText/reference construct 
+					<!--If some of the human readable text is a representation of the value, we SHOULD include a reference to that text using the originalText/reference construct
 									if, however, the value is bound to some constant by an Implementation Guide and it is not represented in the human readable text, then the originalText/reference SHALL NOT be present
 								-->
 					<originalText>
@@ -60,24 +60,3 @@
 		</entry>
 	</section>
 </component>
-
-
-###Permalink 
-
-* 4ff98cea4e08af83572a00e4606dad402e110e39
-
-###Permalink 
-
-* 0fcc1953f8a64428b5da83fff8b04d647620ed46
-
-###Permalink 
-
-* d2e4bdde474e6de609273351670e41096df45ab2
-
-###Permalink 
-
-* 322f628ae1aff2af7d5006b8728a775cb7235354
-
-###Permalink 
-
-* 80fc53ce7f2ac3893de88982796c261aa16e5d04

@@ -11,7 +11,7 @@
 			<list>
 				...
 			</list>
-			
+
 		</text>
 		<!-- This illustrates a simple supply. in C-CDA this is used as a Non-Medicinal Supply Activity, a Planned Supply, or via entryRelationships as various supply activities. -->
 		<entry>
@@ -33,7 +33,7 @@
 						<playingDevice>
 							<code code="12345" codeSystem="1.2.3.4.5.6.7.8.42" displayName="loreum ipsum">
 								<originalText>
-									<!-- the value of this reference begins with hashtag, and is followed by text that is the value of an ID element in the human readable text 
+									<!-- the value of this reference begins with hashtag, and is followed by text that is the value of an ID element in the human readable text
 											notice that the referenced text is similar to but different than the @displayName  of the code element
 											from an interoperability perspective, this pattern is a SHOULD as access to the human readable text reflecting the (code, codeSystem) in use is beneficial to consuming systems
 									-->
@@ -46,31 +46,10 @@
 						</scopingEntity>
 					</participantRole>
 				</participant>
-				
-				
-				
+
+
+
 			</supply>
 		</entry>
 	</section>
 </component>
-
-
-###Permalink 
-
-* ab06dc44e43c2e727f6b006503d5c71420295fed
-
-###Permalink 
-
-* 72a62d0f3521eacf39ab2c0f0f8005e5792008d6
-
-###Permalink 
-
-* d070d7040eb7b96344ca1bfdc3a82ba47c42eba9
-
-###Permalink 
-
-* a6f64736ea006a25c44d876d14a4d4c4dbe1a498
-
-###Permalink 
-
-* 0e54426b0a76d685672225806bae4d65b6ecf341
