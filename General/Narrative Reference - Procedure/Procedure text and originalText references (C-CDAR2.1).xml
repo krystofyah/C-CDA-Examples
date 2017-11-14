@@ -8,12 +8,17 @@
 			<table>
 				<tbody>
 					<tr ID="procedureFullTextReference1">
-						<td> ID="procedureCodeTextReference1">Vestibulum nunc nisl
-						</td>
+						<td ID="procedureCodeTextReference1">Vestibulum nunc nisl</td>
+						<td>labelText: mmm DD YYYY</td>
+						<br/>
 						<td>
+<<<<<<< HEAD
 							<td>labelText: mmm DD YYYY</td>
 							<br/>
 							labelText:
+=======
+							labelText: 
+>>>>>>> 3a92ddbfef306a5bf7b3de1d197c9d975d72493b
 							<content ID="procedureSiteCodeReference1">Vulputate eget  </content>
 						</td>
 						<td>
