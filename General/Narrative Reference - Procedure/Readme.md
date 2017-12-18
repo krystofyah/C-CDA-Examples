@@ -2,11 +2,7 @@
 
 * Approval Status: Approved
 * Example Task Force: 6/1/2017
-<<<<<<< HEAD
-* SDWG:
-=======
 * SDWG: 7/6/2017
->>>>>>> 3a92ddbfef306a5bf7b3de1d197c9d975d72493b
 
 ###C-CDA 2.1 Example:
 * Applies to all C-CDA/CDA templates with this entry type
@@ -26,14 +22,7 @@
 ###Keywords
 
 * narrative, narrative-entry, linking text
-<<<<<<< HEAD
-=======
 
-
-
-
-
-###Permalink 
+###Permalink
 
 * 5535d4fa945c1551f1cb92dc6049163fe8a817b8
->>>>>>> 3a92ddbfef306a5bf7b3de1d197c9d975d72493b

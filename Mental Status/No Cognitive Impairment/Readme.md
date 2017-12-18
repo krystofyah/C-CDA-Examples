@@ -2,13 +2,8 @@
 
 * Approval Status: Approved
 * Example Task Force: 6/18/2015, 6/15/2017
-<<<<<<< HEAD
-* SDWG:
-* SDWG C-CDA R2.1 Upgrade:
-=======
 * SDWG: 7/9/2015
 * SDWG C-CDA R2.1 Upgrade: 7/6/2017
->>>>>>> 3a92ddbfef306a5bf7b3de1d197c9d975d72493b
 
 ###C-CDA 2.1 Example:
 

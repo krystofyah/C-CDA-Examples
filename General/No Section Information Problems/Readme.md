@@ -35,11 +35,7 @@
 ###Keywords
 
 * null section, no information section
-<<<<<<< HEAD
-=======
 
-
-###Permalink 
+###Permalink
 
 * 4625469228fa0758500a4a62afb17f585412e50b
->>>>>>> 3a92ddbfef306a5bf7b3de1d197c9d975d72493b
