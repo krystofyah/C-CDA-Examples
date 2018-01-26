@@ -40,7 +40,7 @@
 
 ###Permalink 
 
-* [http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3](http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3)
+* [http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3](http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3](http://cdasearch.hl7.org/examples/view/*ad811b5c30103652f64000ae9a9d7092279d22b3))
 
 
 ###Links 
