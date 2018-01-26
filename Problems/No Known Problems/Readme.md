@@ -37,7 +37,7 @@
 
 ###Permalink 
 
-* [http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab))
+* [http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab))](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab](http://cdasearch.hl7.org/examples/view/7353a215efda8dfe3fbacb19abbb90756ce14bab)))
 
 ###Links 
 

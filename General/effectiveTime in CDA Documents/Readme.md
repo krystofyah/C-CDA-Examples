@@ -30,4 +30,4 @@
 
 ###Permalink 
 
-* [http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002))
+* [http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002))](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002)](http://cdasearch.hl7.org/examples/view/[http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002](http://cdasearch.hl7.org/examples/view/5a0b3a01f02cc01f665c2002)))
