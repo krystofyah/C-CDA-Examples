@@ -1,10 +1,10 @@
-## Approval Status 
+## Approval Status
 
 * Approval Status: Pending
 * Example Task Force: 2/15/2018
-* SDWG: 
+* SDWG:
 
-### C-CDA 2.1 Example: 
+### C-CDA 2.1 Example:
 * 2.16.840.1.113883.10.20.22.2.1:2014-06-09
 * 2.16.840.1.113883.10.20.22.2.1.1:2014-06-09
 * 2.16.840.1.113883.10.20.22.4.16:2014-06-09
@@ -24,9 +24,9 @@
 
 This example illustrates an example of a medication order with the following characteristics:
 
-* an IV drug with a relative dose quantity that is based on weight, 
+* an IV drug with a relative dose quantity that is based on weight,
 
-* a drug vehicle used for preparation, 
+* a drug vehicle used for preparation,
 
 * and indications for the medication.
 
@@ -46,5 +46,3 @@ Additional Notes and Assumptions:
 ### Keywords
 
 * medication, chemo, IV, realtive dosing###Permalink 
-
-* [http://cdasearch.hl7.org/examples/view/5ac25c73d2b38baa19650881](http://cdasearch.hl7.org/examples/view/5ac25c73d2b38baa19650881)
