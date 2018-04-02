@@ -46,8 +46,3 @@ Additional Notes and Assumptions:
 ### Keywords
 
 * medication, chemo, IV, realtive dosing
-
-
-###Permalink 
-
-* [http://cdasearch.hl7.org/examples/view/5ac26762d2b38bb237c328df](http://cdasearch.hl7.org/examples/view/5ac26762d2b38bb237c328df)
