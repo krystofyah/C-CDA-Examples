@@ -40,3 +40,7 @@
 ### Permalink 
 
 * [http://cdasearch.hl7.org/examples/view/297341ca-b5e6-467f-9e0f-c881ce3e074e](http://cdasearch.hl7.org/examples/view/297341ca-b5e6-467f-9e0f-c881ce3e074e)
+
+### Permalink 
+
+* [http://cdasearch.hl7.org/examples/view/2cf2a3bf-600c-48aa-b9f3-5ab512216877](http://cdasearch.hl7.org/examples/view/2cf2a3bf-600c-48aa-b9f3-5ab512216877)
