@@ -35,8 +35,3 @@
 ###Links
 
 * [Single Consultation Note(C-CDA R2.1).xml](https://github.com/HL7/C-CDA-Examples/tree/master/Notes/Single%20Consultation%20Note/Single%20Consultation%20Note%28C-CDA%20R2.1%29.xml)
-
-
-### Permalink 
-
-* [http://cdasearch.hl7.org/examples/view/9337f841-ee70-4984-945a-79102182c64b](http://cdasearch.hl7.org/examples/view/9337f841-ee70-4984-945a-79102182c64b)
