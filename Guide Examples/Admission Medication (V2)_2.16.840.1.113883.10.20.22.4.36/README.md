@@ -9,3 +9,9 @@ These examples were reviewed through the HL7 ballot process. They have not been 
 Admission Medication (V2)
  
 2.16.840.1.113883.10.20.22.4.36
+ 
+ 
+
+### Permalink 
+
+* [http://cdasearch.hl7.org/examples/view/53d89baa-1eb6-47a2-87e5-b1dd55f79277](http://cdasearch.hl7.org/examples/view/53d89baa-1eb6-47a2-87e5-b1dd55f79277)
