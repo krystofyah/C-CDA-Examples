@@ -14,4 +14,4 @@ Admission Medication (V2)
 
 ### Permalink 
 
-* [http://cdasearch.hl7.org/examples/view/53d89baa-1eb6-47a2-87e5-b1dd55f79277](http://cdasearch.hl7.org/examples/view/53d89baa-1eb6-47a2-87e5-b1dd55f79277)
+* [http://cdasearch.hl7.org/examples/view/7ffae6cc-0e6e-4738-b49c-d538859ad9bc](http://cdasearch.hl7.org/examples/view/7ffae6cc-0e6e-4738-b49c-d538859ad9bc)
