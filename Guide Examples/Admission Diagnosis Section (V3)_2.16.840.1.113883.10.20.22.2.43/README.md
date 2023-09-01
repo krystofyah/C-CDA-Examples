@@ -3,4 +3,4 @@ b'## SDWG Supported Sample from Implementation Guide\n\nThe initial load of this
 
 ### Permalink 
 
-* [http://cdasearch.hl7.org/examples/view/f342f1bc-5f2e-4d49-8b5c-1bc3441eda72](http://cdasearch.hl7.org/examples/view/f342f1bc-5f2e-4d49-8b5c-1bc3441eda72)
+* [http://cdasearch.hl7.org/examples/view/0a1b98e6-4338-474d-95e2-90bf637b74aa](http://cdasearch.hl7.org/examples/view/0a1b98e6-4338-474d-95e2-90bf637b74aa)
