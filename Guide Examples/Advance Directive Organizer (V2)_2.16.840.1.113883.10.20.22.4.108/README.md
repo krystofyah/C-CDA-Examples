@@ -9,3 +9,9 @@ These examples were reviewed through the HL7 ballot process. They have not been 
 Advance Directive Organizer (V2)
  
 2.16.840.1.113883.10.20.22.4.108
+ 
+ 
+
+### Permalink 
+
+* [http://cdasearch.hl7.org/examples/view/147168bf-ff44-4651-b3d4-8922320ca5b9](http://cdasearch.hl7.org/examples/view/147168bf-ff44-4651-b3d4-8922320ca5b9)
