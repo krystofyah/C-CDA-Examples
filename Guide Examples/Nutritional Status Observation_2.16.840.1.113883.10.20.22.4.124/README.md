@@ -9,3 +9,9 @@ These examples were reviewed through the HL7 ballot process. They have not been 
 Nutritional Status Observation
  
 2.16.840.1.113883.10.20.22.4.124
+ 
+ 
+
+### Permalink 
+
+* [http://cdasearch.hl7.org/examples/view/09a7cbce-f6ae-4f57-8506-beafb3982bf0](http://cdasearch.hl7.org/examples/view/09a7cbce-f6ae-4f57-8506-beafb3982bf0)
