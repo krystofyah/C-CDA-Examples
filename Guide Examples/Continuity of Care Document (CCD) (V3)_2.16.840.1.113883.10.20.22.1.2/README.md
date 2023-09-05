@@ -9,3 +9,9 @@ These examples were reviewed through the HL7 ballot process. They have not been 
 Continuity of Care Document (CCD) (V3)
  
 2.16.840.1.113883.10.20.22.1.2
+ 
+ 
+
+### Permalink 
+
+* [http://cdasearch.hl7.org/examples/view/6c7ea8aa-df9f-47e9-b852-196de847d683](http://cdasearch.hl7.org/examples/view/6c7ea8aa-df9f-47e9-b852-196de847d683)
